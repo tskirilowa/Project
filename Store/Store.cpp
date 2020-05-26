@@ -1,8 +1,11 @@
 #include <iostream>
+#include "Product.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    
+    Product();
+    
 }
 
 
